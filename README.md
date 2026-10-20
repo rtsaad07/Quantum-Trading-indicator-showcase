@@ -1,4 +1,4 @@
-# 📈 Proprietary Algorithmic Trading System (Pine Script v5)
+# 📈 Proprietary Algorithmic Trading System (Pine Script v6)
 
 > 🔒 **Confidential & Protected Intellectual Property**  
 > This high-precision, logic-driven technical indicator and automated trading system is engineered for institutional-grade execution. Below is a live chart execution preview.
@@ -23,3 +23,4 @@
 ### 🔐 Licensing & Commercial Access
 * The full source code is strictly protected and kept private. 
 * Serious investors, prop traders, or funds interested in acquiring or licensing this system can reach out directly via LinkedIn or email to request **Invite-Only access** on TradingView.
+* Also available in Python
