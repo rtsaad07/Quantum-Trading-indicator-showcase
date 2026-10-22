@@ -30,3 +30,17 @@
 * The full source code is strictly protected and kept private. 
 * Serious investors, prop traders, or funds interested in acquiring or licensing this system can reach out directly via LinkedIn or email to request **Invite-Only access** on TradingView.
 * Also available in Python
+
+### 📊 Further 15 mint time frame proof
+
+### 📊    Before
+<p align="center">
+  <img src="./SS Before 15 mint time frame.png" width="100%" alt="Trading Script Execution Preview" />
+</p>
+
+
+### 📊    After
+<p align="center">
+  <img src="./SS After 15 mint time frame.png" width="100%" alt="Trading Script Execution Preview" />
+</p>
+
