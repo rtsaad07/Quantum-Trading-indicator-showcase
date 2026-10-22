@@ -5,10 +5,16 @@
 
 ---
 
-### 📊 Live Execution Preview
+### 📊 Live Execution Preview Before
 
 <p align="center">
   <img src="./Screenshot 2026-10-20 201305.png" width="100%" alt="Trading Script Execution Preview" />
+</p>
+
+### 📊 Live Execution Preview After
+
+<p align="center">
+  <img src="./Screenshot 2026-10-22 212737.png" width="100%" alt="Trading Script Execution Preview" />
 </p>
 
 ---
